@@ -1,0 +1,76 @@
+Carregando dados...
+Dados carregados com sucesso. Shape: (105612, 409)
+
+============================================================
+INICIANDO TREINAMENTO PARA: PROFICIENCIA_LP_SAEB
+============================================================
+Dados de treino: (84489, 407), Dados de teste: (21123, 407)
+
+Instanciando modelo com parâmetros otimizados...
+Treinando o modelo...
+Realizando previsões no conjunto de teste...
+
+>> Métricas de Desempenho para 'PROFICIENCIA_LP_SAEB':
+   R² Score: 0.3006
+   RMSE (Root Mean Squared Error): 38.1884
+
+Top 20 variáveis mais importantes (LP):
+                                                                      Variavel  Importancia
+0                                     TX_RESP_Q20d_Não uso meu tempo para isso     0.061453
+1                                                              TX_RESP_Q22_Sim     0.039468
+2                                                TX_RESP_Q21_Somente trabalhar     0.036325
+3                                                     TX_RESP_Q18_Sim, uma vez     0.027639
+4                                                          TX_RESP_Q23a_Sempre     0.025843
+5                                                    TX_RESP_Q23a_Várias vezes     0.024623
+6                                  TX_RESP_Q21_Continuar estudando e trabalhar     0.021103
+7                                                               TX_RESP_Q20a_D     0.019889
+8                                            TX_RESP_Q23a_Nunca ou quase nunca     0.018767
+9                                                             TX_RESP_Q14_À pé     0.017735
+10                                                          TX_RESP_Q04_Branco     0.016757
+11                                                         TX_RESP_Q23d_Sempre     0.012214
+12                                       TX_RESP_Q17_Somente em escola pública     0.011949
+13                                                              TX_RESP_Q20a_C     0.011599
+14                                         TX_RESP_Q18_Sim, duas vezes ou mais     0.011047
+15                                                   TX_RESP_Q23b_Várias vezes     0.009909
+16                                                   TX_RESP_Q23f_Várias vezes     0.009807
+17  TX_RESP_Q10_Asfalto ou Calcamento: Sim, Água tratada: Não, Iluminacão: Sim     0.009651
+18                                    TX_RESP_Q20e_Não uso meu tempo para isso     0.009568
+19                                                TX_RESP_Q20d_Mais de 2 horas     0.009046
+
+============================================================
+INICIANDO TREINAMENTO PARA: PROFICIENCIA_MT_SAEB
+============================================================
+Dados de treino: (84489, 407), Dados de teste: (21123, 407)
+
+Instanciando modelo com parâmetros otimizados...
+Treinando o modelo...
+Realizando previsões no conjunto de teste...
+
+>> Métricas de Desempenho para 'PROFICIENCIA_MT_SAEB':
+   R² Score: 0.2923
+   RMSE (Root Mean Squared Error): 40.9293
+
+Top 20 variáveis mais importantes (MT):
+                                    Variavel  Importancia
+0      TX_RESP_Q17_Somente em escola pública     0.051508
+1   TX_RESP_Q20d_Não uso meu tempo para isso     0.030912
+2                            TX_RESP_Q22_Sim     0.030769
+3              TX_RESP_Q21_Somente trabalhar     0.029595
+4                           TX_RESP_Q14_À pé     0.028596
+5                   TX_RESP_Q18_Sim, uma vez     0.028582
+6                        TX_RESP_Q23a_Sempre     0.025769
+7                             TX_RESP_Q20a_D     0.021003
+8                  TX_RESP_Q23f_Várias vezes     0.020588
+9                         TX_RESP_Q04_Branco     0.018006
+10                 TX_RESP_Q23a_Várias vezes     0.016167
+11                     TX_RESP_Q01_Masculino     0.014282
+12         TX_RESP_Q23d_Nunca ou quase nunca     0.013474
+13                       TX_RESP_Q23d_Sempre     0.012683
+14       TX_RESP_Q18_Sim, duas vezes ou mais     0.012567
+15         TX_RESP_Q23a_Nunca ou quase nunca     0.012478
+16                 TX_RESP_Q23b_Várias vezes     0.009846
+17      TX_RESP_Q08_Ensino Superior completo     0.009763
+18      TX_RESP_Q07_Ensino Superior completo     0.009195
+19                 TX_RESP_Q23c_Várias vezes     0.007971
+
+Gerando gráficos de importância das variáveis...

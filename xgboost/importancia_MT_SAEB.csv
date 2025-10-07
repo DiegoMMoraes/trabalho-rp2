@@ -1,0 +1,408 @@
+Variavel,Importancia
+TX_RESP_Q17_Somente em escola pública,0.051507626
+TX_RESP_Q20d_Não uso meu tempo para isso,0.030911706
+TX_RESP_Q22_Sim,0.030768698
+TX_RESP_Q21_Somente trabalhar,0.029595204
+TX_RESP_Q14_À pé,0.028596077
+"TX_RESP_Q18_Sim, uma vez",0.028581839
+TX_RESP_Q23a_Sempre,0.025768923
+TX_RESP_Q20a_D,0.021003354
+TX_RESP_Q23f_Várias vezes,0.02058782
+TX_RESP_Q04_Branco,0.018006317
+TX_RESP_Q23a_Várias vezes,0.016167432
+TX_RESP_Q01_Masculino,0.014281832
+TX_RESP_Q23d_Nunca ou quase nunca,0.0134741105
+TX_RESP_Q23d_Sempre,0.012682689
+"TX_RESP_Q18_Sim, duas vezes ou mais",0.012566514
+TX_RESP_Q23a_Nunca ou quase nunca,0.012478229
+TX_RESP_Q23b_Várias vezes,0.009845594
+TX_RESP_Q08_Ensino Superior completo,0.009763488
+TX_RESP_Q07_Ensino Superior completo,0.00919463
+TX_RESP_Q23c_Várias vezes,0.007971114
+"TX_RESP_Q10_Asfalto ou Calcamento: Sim, Água tratada: Não, Iluminacão: Sim",0.007955774
+TX_RESP_Q09d_Sempre ou quase sempre,0.007585585
+TX_RESP_Q11c_3 ou mais,0.0066287415
+TX_RESP_Q20e_Não uso meu tempo para isso,0.0065999185
+TX_RESP_Q05_Sim,0.0065565486
+TX_RESP_Q21_Continuar estudando e trabalhar,0.00638266
+TX_RESP_Q20c_Mais de 2 horas,0.0062995725
+TX_RESP_Q20a_C,0.0061555295
+TX_RESP_Q04_Preto,0.0061356826
+TX_RESP_Q02_19 anos,0.0057841255
+TX_RESP_Q11c_2,0.005538738
+TX_RESP_Q23c_Sempre,0.005429071
+TX_RESP_Q21_Somente continuar estudando,0.0051137423
+TX_RESP_Q23h_Sempre,0.004809379
+TX_RESP_Q20d_Mais de 2 horas,0.0047162627
+TX_RESP_Q16_8 anos ou mais,0.004687841
+TX_RESP_Q23g_Sempre,0.004660795
+TX_RESP_Q11b_3 ou mais,0.0044412315
+TX_RESP_Q23i_Nunca ou quase nunca,0.0043918076
+TX_RESP_Q23f_Nunca ou quase nunca,0.0043655713
+TX_RESP_Q23g_Várias vezes,0.004325135
+TX_RESP_Q09d_Nunca ou quase nunca,0.004227
+TX_RESP_Q12h_B,0.004225625
+TX_RESP_Q23e_Várias vezes,0.003872055
+TX_RESP_Q11h_1,0.003859887
+IN_PUBLICA_Pública,0.0038419578
+ID_AREA_Interior,0.0038141436
+TX_RESP_Q23b_Nunca ou quase nunca,0.0037319858
+"TX_RESP_Q10_Asfalto ou Calcamento: Sim, Água tratada: Sim, Iluminacão: Sim",0.0036226287
+TX_RESP_Q23c_Nunca ou quase nunca,0.003589174
+TX_RESP_Q11c_1,0.0035322544
+TX_RESP_Q09a_Nunca ou quase nunca,0.003474235
+TX_RESP_Q23e_Nunca ou quase nunca,0.0033962918
+"TX_RESP_Q07_Ensino Fundamental, até o 5º ano",0.0033549543
+TX_RESP_Q12a_B,0.0031898255
+TX_RESP_Q02_17 anos,0.003146099
+TX_RESP_Q14_De metrô,0.0030150379
+"TX_RESP_Q06_Mãe ou Madrasta, Pai ou Padrasto, Irmão(s) ou Irmã(s), Avô ou Avó",0.003007586
+TX_RESP_Q20a_B,0.002993398
+TX_RESP_Q16_4 ou 5 anos,0.0029559091
+TX_RESP_Q06_Nenhum,0.0029256877
+TX_RESP_Q09c_Sempre ou quase sempre,0.0028912772
+TX_RESP_Q11a_3 ou mais,0.0027405606
+TX_RESP_Q20e_Menos de 1 hora,0.002670239
+TX_RESP_Q20c_Não uso meu tempo para isso,0.0025943043
+TX_RESP_Q09e_Sempre ou quase sempre,0.0025761141
+TX_RESP_Q13_Mais de uma hora,0.0025131993
+TX_RESP_Q11b_2,0.0025104724
+"TX_RESP_Q10_Asfalto ou Calcamento: Sim, Água tratada: Não, Iluminacão: Não",0.002478931
+TX_RESP_Q11a_1,0.0024635287
+TX_RESP_Q11b_1,0.0024559356
+TX_RESP_Q20e_Mais de 2 horas,0.0024508247
+TX_RESP_Q23b_Sempre,0.0024129658
+TX_RESP_Q23f_Sempre,0.0023979167
+TX_RESP_Q06_Irmão(s) ou Irmã(s),0.0023654827
+TX_RESP_Q09e_Nunca ou quase nunca,0.0022871308
+TX_RESP_Q16_6 ou 7 anos,0.0022786893
+"TX_RESP_Q06_Mãe ou Madrasta, Pai ou Padrasto, Irmão(s) ou Irmã(s)",0.0022622705
+TX_RESP_Q20c_Menos de 1 hora,0.0022012566
+"TX_RESP_Q06_Irmão(s) ou Irmã(s), Avô ou Avó",0.0021964752
+TX_RESP_Q13_Menos de 30 minutos,0.0021788592
+TX_RESP_Q11d_1,0.002150166
+"TX_RESP_Q08_Ensino Fundamental, até o 5º ano",0.0021261636
+TX_RESP_Q23i_Várias vezes,0.002115234
+TX_RESP_Q17_Somente em escola particular,0.0021051683
+TX_RESP_Q07_Não completou o 5º ano do Ensino Fundamental,0.002092532
+TX_RESP_Q20b_Mais de 2 horas,0.0020916578
+"TX_RESP_Q19_Sim, uma vez",0.0020858294
+TX_RESP_Q09b_Nunca ou quase nunca,0.0020603102
+TX_RESP_Q11f_3 ou mais,0.0020413613
+TX_RESP_Q23e_Sempre,0.002001246
+TX_RESP_Q02_20 anos,0.001995469
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador, Lavadora, Freezer, Garagem",0.0019809233
+TX_RESP_Q11e_3 ou mais,0.0019787517
+TX_RESP_Q11g_3 ou mais,0.0019765028
+"TX_RESP_Q06_Pai ou Padrasto, Irmão(s) ou Irmã(s), Avô ou Avó",0.0019731866
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Lavadora",0.0019645598
+TX_RESP_Q03_Outra língua,0.0019448997
+TX_RESP_Q11f_1,0.0019389951
+TX_RESP_Q02_21 anos ou mais,0.0019232464
+TX_RESP_Q12c_B,0.0018902342
+TX_RESP_Q08_Não completou o 5º ano do Ensino Fundamental,0.0018800419
+TX_RESP_Q09b_Sempre ou quase sempre,0.0018618894
+TX_RESP_Q06_Pai ou Padrasto,0.0018544416
+TX_RESP_Q11g_1,0.0018293116
+TX_RESP_Q23d_Várias vezes,0.0018013829
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador, Lavadora, Freezer",0.0017992954
+TX_RESP_Q11e_1,0.0017990824
+TX_RESP_Q23i_Sempre,0.0017981349
+"TX_RESP_Q12_Freezer, Garagem",0.0017813031
+TX_RESP_Q12i_B,0.0017739212
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador, Lavadora, Freezer, Garagem",0.0017680333
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador, Lavadora, Freezer, Garagem",0.001767467
+TX_RESP_Q23h_Várias vezes,0.0017654453
+"TX_RESP_Q12_Wi-Fi, Lavadora, Freezer",0.0017605895
+"TX_RESP_Q12_Lavadora, Freezer, Garagem",0.0017537497
+"TX_RESP_Q12_Mesa, Lavadora, Freezer, Garagem",0.0017523256
+TX_RESP_Q08_Ensino Médio completo,0.0017450629
+TX_RESP_Q07_Ensino Médio completo,0.0017183557
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Lavadora, Freezer",0.0017131298
+TX_RESP_Q12g_B,0.0017124139
+"TX_RESP_Q10_Asfalto ou Calcamento: Sim, Água tratada: Sim, Iluminacão: Não",0.001686365
+TX_RESP_Q09f_Sempre ou quase sempre,0.0016851912
+TX_RESP_Q12d_B,0.0016711121
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador, Lavadora, Garagem",0.0016691016
+"TX_RESP_Q12_Wi-Fi, Mesa, Lavadora, Freezer, Garagem",0.0016667469
+TX_RESP_Q12f_B,0.0016644801
+"TX_RESP_Q06_Mãe ou Madrasta, Pai ou Padrasto",0.0016627524
+"TX_RESP_Q06_Pai ou Padrasto, Irmão(s) ou Irmã(s)",0.0016610414
+"TX_RESP_Q12_Wi-Fi, Microondas, Lavadora",0.0016574328
+"TX_RESP_Q12_Mesa, Aspirador, Lavadora, Freezer, Garagem",0.0016528133
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador, Lavadora, Freezer, Garagem",0.0016526433
+"TX_RESP_Q06_Mãe ou Madrasta, Irmão(s) ou Irmã(s)",0.0016465749
+TX_RESP_Q04_Indígena,0.0016449926
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Lavadora, Garagem",0.0016434761
+"TX_RESP_Q10_Asfalto ou Calcamento: Não, Água tratada: Sim, Iluminacão: Sim",0.0016413247
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Lavadora, Freezer",0.0016411825
+TX_RESP_Q09a_Sempre ou quase sempre,0.0016248724
+TX_RESP_Q12_Wi-Fi,0.0016242354
+TX_RESP_Q14_De bicicleta,0.0016224835
+TX_RESP_Q12b_B,0.0016189892
+TX_RESP_Q09f_Nunca ou quase nunca,0.0016109229
+"TX_RESP_Q12_Wi-Fi, Quarto, Freezer, Garagem",0.0016043818
+"TX_RESP_Q12_Mesa, Microondas, Lavadora, Freezer, Garagem",0.0016010784
+TX_RESP_Q23g_Nunca ou quase nunca,0.0015984975
+"TX_RESP_Q19_Sim, duas vezes ou mais",0.0015973245
+"TX_RESP_Q06_Mãe ou Madrasta, Irmão(s) ou Irmã(s), Avô ou Avó",0.0015936416
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Lavadora, Freezer",0.0015857263
+TX_RESP_Q12e_B,0.0015833142
+TX_RESP_Q20b_Não uso meu tempo para isso,0.0015785181
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador, Lavadora, Freezer, Garagem",0.0015709888
+TX_RESP_Q14_Outros meios de transporte,0.0015694224
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Lavadora, Freezer, Garagem",0.0015585441
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador, Lavadora, Garagem",0.0015557066
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador, Lavadora, Freezer",0.0015489224
+"TX_RESP_Q06_Mãe ou Madrasta, Pai ou Padrasto, Avô ou Avó",0.0015443843
+TX_RESP_Q23h_Nunca ou quase nunca,0.0015367435
+"TX_RESP_Q12_Wi-Fi, Aspirador, Lavadora, Freezer, Garagem",0.0015360146
+"TX_RESP_Q12_Wi-Fi, Mesa, Lavadora, Garagem",0.0015326114
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador, Lavadora, Freezer, Garagem",0.0015297668
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Lavadora, Freezer, Garagem",0.001527226
+"TX_RESP_Q12_Mesa, Lavadora",0.0015225646
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador, Lavadora, Garagem",0.0015177083
+"TX_RESP_Q12_Quarto, Mesa, Aspirador, Lavadora, Freezer, Garagem",0.0015133652
+TX_RESP_Q11d_3 ou mais,0.0015085555
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador, Freezer, Garagem",0.0015082969
+"TX_RESP_Q06_Mãe ou Madrasta, Avô ou Avó",0.0015036246
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador, Freezer, Garagem",0.001500695
+ID_LOCALIZACAO_Urbana,0.0014999475
+TX_RESP_Q20d_Menos de 1 hora,0.0014993694
+TX_RESP_Q11g_2,0.0014992139
+"TX_RESP_Q10_Asfalto ou Calcamento: Não, Água tratada: Sim, Iluminacão: Não",0.0014939684
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador, Lavadora, Freezer, Garagem",0.0014916023
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador, Lavadora",0.0014889213
+"TX_RESP_Q12_Wi-Fi, Quarto, Lavadora",0.0014874024
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Garagem",0.0014769286
+TX_RESP_Q11a_2,0.0014723712
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Lavadora",0.0014665204
+TX_RESP_Q09c_Nunca ou quase nunca,0.0014662351
+"TX_RESP_Q06_Pai ou Padrasto, Avô ou Avó",0.0014606875
+"TX_RESP_Q12_Wi-Fi, Quarto, Lavadora, Freezer, Garagem",0.0014599393
+"TX_RESP_Q12_Wi-Fi, Microondas, Lavadora, Garagem",0.0014518615
+"TX_RESP_Q12_Mesa, Microondas, Aspirador, Lavadora, Freezer, Garagem",0.0014477333
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador, Lavadora, Freezer",0.0014467362
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Freezer, Garagem",0.0014442678
+"TX_RESP_Q12_Wi-Fi, Lavadora, Garagem",0.0014363648
+"TX_RESP_Q12_Quarto, Microondas, Aspirador, Lavadora, Freezer, Garagem",0.0014353936
+TX_RESP_Q03_Português,0.0014297478
+"TX_RESP_Q12_Quarto, Aspirador, Lavadora, Freezer, Garagem",0.0014282209
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Lavadora, Freezer, Garagem",0.0014263978
+TX_RESP_Q15_Sim,0.0014238496
+"TX_RESP_Q10_Asfalto ou Calcamento: Não, Água tratada: Não, Iluminacão: Sim",0.001418303
+"TX_RESP_Q12_Quarto, Lavadora",0.0014164788
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador, Lavadora, Freezer",0.0014115599
+TX_RESP_Q20b_Menos de 1 hora,0.0014110683
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Lavadora, Garagem",0.0014069233
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador, Lavadora, Garagem",0.0014051897
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador, Lavadora, Garagem",0.0014010126
+TX_RESP_Q12_Freezer,0.0014002258
+"TX_RESP_Q12_Wi-Fi, Lavadora, Freezer, Garagem",0.0013994531
+"TX_RESP_Q12_Quarto, Microondas, Lavadora, Freezer, Garagem",0.0013977898
+"TX_RESP_Q12_Wi-Fi, Microondas, Lavadora, Freezer",0.0013908703
+"TX_RESP_Q12_Wi-Fi, Aspirador, Lavadora, Garagem",0.0013841672
+"TX_RESP_Q12_Wi-Fi, Freezer, Garagem",0.0013825503
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Lavadora, Freezer, Garagem",0.00137988
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Freezer",0.0013796953
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Lavadora, Freezer",0.0013794765
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Freezer",0.0013794113
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Lavadora, Garagem",0.0013784893
+"TX_RESP_Q12_Wi-Fi, Microondas, Freezer, Garagem",0.0013775077
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Freezer, Garagem",0.001377265
+"TX_RESP_Q12_Wi-Fi, Lavadora",0.0013758012
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Freezer",0.0013743622
+"TX_RESP_Q12_Wi-Fi, Aspirador, Garagem",0.0013731945
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador, Lavadora, Freezer, Garagem",0.0013722134
+"TX_RESP_Q12_Wi-Fi, Mesa, Lavadora",0.0013718862
+TX_RESP_Q11h_2,0.0013713294
+"TX_RESP_Q12_Wi-Fi, Quarto, Lavadora, Freezer",0.0013658312
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador, Lavadora, Freezer",0.0013602328
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Lavadora, Freezer, Garagem",0.0013540162
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Lavadora",0.00135371
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador, Lavadora, Freezer",0.0013511211
+"TX_RESP_Q12_Wi-Fi, Aspirador, Lavadora, Freezer",0.0013504098
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas",0.0013420943
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Lavadora",0.0013332639
+"TX_RESP_Q12_Wi-Fi, Mesa, Garagem",0.0013147141
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador, Lavadora, Freezer",0.0013125777
+TX_RESP_Q14_De carro,0.0013108714
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador, Freezer",0.0013079856
+TX_RESP_Q02_18 anos,0.0013066899
+TX_RESP_Q11f_2,0.0012936002
+"TX_RESP_Q12_Quarto, Lavadora, Freezer, Garagem",0.0012924981
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador, Freezer, Garagem",0.0012921649
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Freezer, Garagem",0.0012872365
+TX_RESP_Q06_Mãe ou Madrasta,0.0012853682
+"TX_RESP_Q12_Microondas, Freezer, Garagem",0.0012824708
+"TX_RESP_Q12_Quarto, Mesa, Lavadora, Freezer, Garagem",0.0012820452
+"TX_RESP_Q12_Microondas, Lavadora, Freezer",0.0012762615
+"TX_RESP_Q12_Wi-Fi, Freezer",0.0012758408
+"TX_RESP_Q12_Microondas, Freezer",0.0012755839
+TX_RESP_Q14_De ônibus,0.0012751726
+"TX_RESP_Q12_Wi-Fi, Mesa",0.00127107
+"TX_RESP_Q12_Wi-Fi, Quarto, Freezer",0.0012705519
+"TX_RESP_Q12_Quarto, Microondas, Aspirador, Lavadora, Freezer",0.0012701435
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Garagem",0.0012693852
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Freezer",0.0012690072
+"TX_RESP_Q12_Quarto, Mesa, Freezer, Garagem",0.001265404
+"TX_RESP_Q12_Microondas, Lavadora",0.0012571838
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador, Lavadora, Garagem",0.0012549971
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas",0.0012547956
+"TX_RESP_Q12_Wi-Fi, Microondas, Lavadora, Freezer, Garagem",0.0012517548
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador, Garagem",0.0012381349
+"TX_RESP_Q12_Mesa, Microondas, Lavadora, Freezer",0.0012380752
+TX_RESP_Q11h_3 ou mais,0.001234378
+TX_RESP_Q12_Garagem,0.0012287344
+TX_RESP_Q11d_2,0.0012267266
+"TX_RESP_Q12_Quarto, Microondas, Freezer, Garagem",0.0012256228
+"TX_RESP_Q12_Wi-Fi, Microondas",0.0012250365
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Lavadora, Freezer",0.0012163181
+TX_RESP_Q04_Pardo,0.0012073071
+"TX_RESP_Q12_Quarto, Microondas, Lavadora",0.0011932
+"TX_RESP_Q12_Microondas, Lavadora, Freezer, Garagem",0.0011929402
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador, Freezer, Garagem",0.0011864533
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Lavadora, Garagem",0.0011850044
+"TX_RESP_Q12_Lavadora, Garagem",0.0011849252
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador, Freezer, Garagem",0.0011847415
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador, Lavadora, Freezer",0.0011826634
+"TX_RESP_Q12_Wi-Fi, Quarto, Lavadora, Garagem",0.001181473
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador, Lavadora",0.0011774255
+"TX_RESP_Q12_Quarto, Mesa, Aspirador, Lavadora, Freezer",0.0011754977
+"TX_RESP_Q12_Lavadora, Freezer",0.0011735333
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador, Garagem",0.0011618655
+"TX_RESP_Q12_Mesa, Microondas, Aspirador, Lavadora, Freezer",0.0011581747
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador, Lavadora",0.0011570236
+"TX_RESP_Q12_Wi-Fi, Mesa, Lavadora, Freezer",0.0011561807
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador, Lavadora, Garagem",0.0011515573
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Garagem",0.0011468985
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador, Freezer, Garagem",0.0011369218
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Freezer",0.0011257477
+"TX_RESP_Q12_Wi-Fi, Mesa, Freezer, Garagem",0.0011176507
+"TX_RESP_Q12_Quarto, Microondas, Lavadora, Freezer",0.0011147172
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador, Lavadora",0.0011131709
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador",0.0011115755
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador, Freezer",0.0011113267
+TX_RESP_Q12_Mesa,0.0010980014
+"TX_RESP_Q12_Wi-Fi, Microondas, Freezer",0.0010938935
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador, Lavadora",0.0010885864
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa",0.0010836282
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador, Freezer",0.0010816109
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador, Garagem",0.0010809016
+"TX_RESP_Q12_Quarto, Mesa, Lavadora, Freezer",0.0010784196
+"TX_RESP_Q12_Wi-Fi, Garagem",0.001072587
+TX_RESP_Q12_Nenhum,0.0010613664
+"TX_RESP_Q12_Wi-Fi, Mesa, Freezer",0.0010579561
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador, Lavadora",0.0010553927
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador, Lavadora",0.0010535734
+TX_RESP_Q12_Quarto,0.0010300383
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador, Garagem",0.0010249238
+"TX_RESP_Q12_Mesa, Lavadora, Garagem",0.0010227215
+"TX_RESP_Q12_Mesa, Lavadora, Freezer",0.0010179132
+TX_RESP_Q11e_2,0.001017628
+"TX_RESP_Q12_Microondas, Aspirador, Lavadora, Freezer, Garagem",0.00101697
+"TX_RESP_Q12_Quarto, Aspirador, Lavadora, Garagem",0.0009952288
+"TX_RESP_Q12_Quarto, Microondas, Lavadora, Garagem",0.0009894724
+"TX_RESP_Q12_Wi-Fi, Aspirador",0.0009885131
+"TX_RESP_Q12_Mesa, Freezer",0.0009825641
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador, Freezer",0.0009791104
+"TX_RESP_Q12_Mesa, Freezer, Garagem",0.00095361425
+"TX_RESP_Q12_Microondas, Aspirador, Lavadora, Freezer",0.00095033896
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador, Lavadora, Garagem",0.0009478512
+"TX_RESP_Q12_Wi-Fi, Aspirador, Lavadora",0.00094781554
+"TX_RESP_Q12_Mesa, Microondas, Aspirador, Lavadora, Garagem",0.0009467936
+"TX_RESP_Q12_Wi-Fi, Quarto, Garagem",0.0009222849
+"TX_RESP_Q12_Aspirador, Lavadora, Freezer",0.000919899
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Freezer, Garagem",0.000905734
+"TX_RESP_Q12_Mesa, Aspirador, Lavadora, Freezer",0.0009043758
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador, Garagem",0.0008967113
+"TX_RESP_Q12_Quarto, Lavadora, Freezer",0.000895594
+"TX_RESP_Q12_Quarto, Mesa, Aspirador, Lavadora, Garagem",0.0008908791
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Freezer, Garagem",0.0008899383
+"TX_RESP_Q12_Mesa, Microondas",0.0008897347
+"TX_RESP_Q12_Quarto, Freezer",0.00087992573
+"TX_RESP_Q12_Microondas, Garagem",0.0008642101
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador, Lavadora",0.00085437135
+"TX_RESP_Q12_Wi-Fi, Mesa, Aspirador, Freezer, Garagem",0.00084231154
+"TX_RESP_Q12_Wi-Fi, Microondas, Aspirador",0.0008297739
+"TX_RESP_Q12_Mesa, Aspirador, Lavadora",0.0008226722
+TX_RESP_Q12_Microondas,0.0008208567
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador, Garagem",0.0008132921
+"TX_RESP_Q12_Aspirador, Lavadora, Freezer, Garagem",0.00080955593
+"TX_RESP_Q12_Mesa, Microondas, Lavadora",0.00079912925
+"TX_RESP_Q12_Microondas, Aspirador, Lavadora, Garagem",0.000793565
+"TX_RESP_Q12_Quarto, Microondas",0.00078892394
+"TX_RESP_Q12_Mesa, Microondas, Aspirador, Freezer",0.000781703
+"TX_RESP_Q12_Aspirador, Lavadora",0.00077780033
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas, Aspirador",0.0007598187
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador, Freezer",0.0007591867
+TX_RESP_Q12_Lavadora,0.0007581224
+"TX_RESP_Q12_Quarto, Microondas, Freezer",0.0007254176
+"TX_RESP_Q12_Quarto, Mesa, Microondas",0.00070725713
+"TX_RESP_Q12_Mesa, Microondas, Lavadora, Garagem",0.0006666123
+"TX_RESP_Q12_Mesa, Microondas, Freezer, Garagem",0.00066341565
+"TX_RESP_Q12_Mesa, Microondas, Aspirador, Lavadora",0.0006460658
+"TX_RESP_Q12_Quarto, Mesa, Lavadora, Garagem",0.0006453304
+"TX_RESP_Q12_Mesa, Microondas, Aspirador, Freezer, Garagem",0.0006039963
+"TX_RESP_Q12_Aspirador, Lavadora, Garagem",0.0
+"TX_RESP_Q12_Mesa, Microondas, Freezer",0.0
+"TX_RESP_Q12_Mesa, Microondas, Aspirador, Garagem",0.0
+"TX_RESP_Q12_Mesa, Microondas, Aspirador",0.0
+"TX_RESP_Q12_Mesa, Aspirador",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador, Garagem",0.0
+"TX_RESP_Q12_Aspirador, Garagem",0.0
+"TX_RESP_Q12_Mesa, Garagem",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Aspirador",0.0
+"TX_RESP_Q12_Mesa, Aspirador, Lavadora, Garagem",0.0
+"TX_RESP_Q12_Mesa, Aspirador, Freezer, Garagem",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto, Microondas, Aspirador",0.0
+"TX_RESP_Q12_Mesa, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto, Mesa, Microondas",0.0
+"TX_RESP_Q12_Quarto, Microondas, Aspirador",0.0
+"TX_RESP_Q12_Mesa, Microondas, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Aspirador, Freezer, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Aspirador, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Aspirador, Lavadora",0.0
+"TX_RESP_Q12_Quarto, Mesa, Freezer",0.0
+"TX_RESP_Q12_Quarto, Mesa, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Lavadora",0.0
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador",0.0
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Aspirador, Freezer, Garagem",0.0
+"TX_RESP_Q12_Wi-Fi, Aspirador, Freezer, Garagem",0.0
+"TX_RESP_Q12_Microondas, Aspirador",0.0
+"TX_RESP_Q12_Wi-Fi, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Garagem",0.0
+"TX_RESP_Q12_Quarto, Microondas, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Lavadora",0.0
+"TX_RESP_Q12_Quarto, Microondas, Aspirador, Lavadora, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Microondas, Lavadora, Garagem",0.0
+"TX_RESP_Q12_Quarto, Microondas, Aspirador, Lavadora",0.0
+"TX_RESP_Q12_Quarto, Microondas, Aspirador, Garagem",0.0
+"TX_RESP_Q12_Quarto, Microondas, Aspirador, Freezer, Garagem",0.0
+"TX_RESP_Q12_Quarto, Mesa, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Quarto, Mesa, Aspirador",0.0
+"TX_RESP_Q12_Quarto, Mesa",0.0
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Aspirador",0.0
+"TX_RESP_Q12_Microondas, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Microondas, Aspirador, Freezer, Garagem",0.0
+"TX_RESP_Q12_Microondas, Aspirador, Garagem",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto, Aspirador",0.0
+"TX_RESP_Q12_Wi-Fi, Quarto",0.0
+"TX_RESP_Q12_Wi-Fi, Microondas, Garagem",0.0
+"TX_RESP_Q12_Microondas, Lavadora, Garagem",0.0
+"TX_RESP_Q12_Quarto, Microondas, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Quarto, Aspirador",0.0
+"TX_RESP_Q12_Quarto, Aspirador, Freezer",0.0
+"TX_RESP_Q12_Quarto, Aspirador, Freezer, Garagem",0.0
+"TX_RESP_Q12_Quarto, Aspirador, Garagem",0.0
+"TX_RESP_Q12_Quarto, Aspirador, Lavadora",0.0
+"TX_RESP_Q12_Quarto, Aspirador, Lavadora, Freezer",0.0
+"TX_RESP_Q12_Wi-Fi, Mesa, Microondas, Garagem",0.0
+"TX_RESP_Q12_Quarto, Freezer, Garagem",0.0
+"TX_RESP_Q12_Quarto, Garagem",0.0
+"TX_RESP_Q12_Quarto, Lavadora, Garagem",0.0
+"TX_RESP_Q12_Microondas, Aspirador, Lavadora",0.0
